@@ -1,1 +1,1 @@
-
+Como este repositorio va a acceder tanto profesor como alumnos (miembros del grupo), la mayor parte de avances que se vayan haciendo van a recaer en la carpeta "Material" mientras que las versiones finales van a recaer en "Entregas"
