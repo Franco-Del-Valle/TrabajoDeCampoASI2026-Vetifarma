@@ -1,1 +1,1 @@
-
+En el documento de correcciones va a encontrarse con los puntos destacados que nos remarcó a corregir resaltados en verde, con sus respectivas correcciones/argumentaciones punteadas seguidas de lo que nos señaló.
