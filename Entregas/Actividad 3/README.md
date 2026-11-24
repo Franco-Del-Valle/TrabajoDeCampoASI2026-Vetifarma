@@ -1,1 +1,4 @@
-
+CS21G11I3V1 primer diagrama de clases hecho con máquina de estados de Lote de Materia Prima.
+CS21G11I3V2 y CS21G11I3V3 reducción en la cantidad de clases, uso de más enumerativas. Se mantiene la máquina de estados.
+CS21G11I3V4 reducción de clases a base de combinación, Historial y Muestra se convierten en atributos de Análisis, en Solicitud compra se le agrega el Despacho. Nueva clase artículo que engloba los Productos como Materias Primas.
+Aclaración con respecto a las versiones: la versión CS21G11I3V3 es lo mismo que la CS21G11I3V2 pero ajustando la escala del diagrama de clases para que "se vea mejor". CS21G11I3V4 hice esta versión para llevar más al extremo la idea de que se vea mejor en el pdf y minimicé las clases al máximo. Para que haya menor cantidad de información en el diagrama, lo que se puede hacer es quitar algunas enumerativas que no son tan importantes (EstadoOrden,CausaProblema porque a futuro se pueden definir otras causas) y dejarlas como string.
